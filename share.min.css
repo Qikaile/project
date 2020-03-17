@@ -1,5 +1,5 @@
 @font-face{
-  font-family:"socialshare";src:url("../fonts/iconfont.eot");src:url("../fonts/iconfont.eot?#iefix") format("embedded-opentype"),url("../fonts/iconfont.woff") format("woff"),url("../fonts/iconfont.ttf") format("truetype"),url("../fonts/iconfont.svg#iconfont") format("svg")
+  font-family:"socialshare";src:url("https://raw.githack.com/Qikaile/project/master/iconfont.eot");src:url("https://raw.githack.com/Qikaile/project/master/iconfont.eot?#iefix") format("embedded-opentype"),url("https://raw.githack.com/Qikaile/project/master/iconfont.woff") format("woff"),url("https://raw.githack.com/Qikaile/project/master/iconfont.ttf") format("truetype"),url("https://raw.githack.com/Qikaile/project/master/iconfont.svg#iconfont") format("svg")
 }
 
 .social-share{
