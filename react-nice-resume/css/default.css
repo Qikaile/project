@@ -25,7 +25,7 @@ e. Others
 /* ------------------------------------------------------------------ */
 /* a. Webfonts and Icon fonts
  ------------------------------------------------------------------ */
-
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
 @import url("https://cdn.jsdelivr.net/gh/Qikaile/project@master/react-nice-resume/css/fontello/css/fontello.css");
 @import url("https://cdn.jsdelivr.net/gh/Qikaile/project@master/react-nice-resume/css/font-awesome.css");
 
