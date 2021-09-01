@@ -2,8 +2,8 @@
   "main": {
     "name":"云生个人主页",
     "description":"我是一名开发人员、机械工程师和学生！!",
-    "image":"profilepic.jpg",
-    "image1":"wechat.png",
+    "image":"profilepic.webp",
+    "image1":"wechat.webp",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"在这里，请您留下您的信息，收到信息后尽快与您取得联系！",
     "qq": "2295716873",
@@ -21,6 +21,11 @@
     "resumedownload":"/resume.pdf",
     "social":[
       {
+        "name":"github",
+        "url":"https://github.com/qikaile",
+        "className":"fa fa-github"
+      },
+      {
         "name":"facebook",
         "url":"https://facebook.com/qikaile",
         "className":"fa fa-facebook"
@@ -33,17 +38,12 @@
       {
         "name":"email",
         "url":"mailto:admin@qikaile.tk",
-        "className":"fa fa-fw fa-envelope"
+        "className":"fa fa-envelope"
       },
       {
-        "name":"instagram",
-        "url":"https://instagram.com/qkailei",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/qikaile",
-        "className":"fa fa-github"
+        "name":"qq",
+        "url":"https://user.qzone.qq.com/2295716873",
+        "className":"fa fa-qq"
       }
     ]
   },
@@ -66,15 +66,15 @@
     "work":[
       {
         "company":"马鞍山成宏机械制造有限公司",
-        "title":"绘图",
-        "years":"2019 年 4 月 - 2018 年 9 月",
-        "description":"钣金图纸的绘制及修改"
+        "title":"设计员",
+        "years":"2019 年 4 月 - 2019 年 9 月",
+        "description":"根据客户要求合理设计产品，制作工程图纸；根据工艺要求设计钣金展开图纸和图纸优化；根据公司有关钣金制造工艺，制作加工图并核对；制定、优化和改进产品流程，提高质量、效率和降低成本。"
       },
       {
         "company":"南京瑞达电气科技有限公司",
-        "title":"技术研发",
+        "title":"设计员",
         "years":"2018 年 4 月 - 2018 年 7 月",
-        "description":"汽车冷凝器、散热器研发"
+        "description":"负责汽车散热器与冷凝器尺寸的测量；使用 AutoCAD、SolidWorks 软件进行绘图；根据现有的机械图纸改进和优化。 "
       }
     ],
     "skills":[
@@ -113,49 +113,49 @@
       {
         "title":"Hexo博客",
         "category":"我的第一个博客",
-        "image":"01.jpg",
+        "image":"01.webp",
         "url":"https://qikaile.tk"
       },
       {
         "title":"云生知识库",
         "category":"使用docsify搭建的个人知识库",
-        "image":"02.png",
+        "image":"02.webp",
         "url":"https://tjys.js.org/"
       },
       {
         "title":"天气应用",
         "category":"基于 React 和 Nextjs 的天气应用项目。",
-        "image":"03.jpg",
+        "image":"03.webp",
         "url":"https://weather.qikaile.tk"
       },
       {
         "title":"图床",
         "category":"PicX，基于 GitHub API 搭建的图床神器",
-        "image":"04.jpg",
+        "image":"04.webp",
         "url":"https://pic.qikaile.tk/"
       },
       {
         "title":"在线音乐",
         "category":"高颜值的第三方网易云播放器",
-        "image":"05.jpg",
+        "image":"05.webp",
         "url":"https://music.qikaile.tk"
       },
       {
         "title":"uptime-status",
         "category":"基于 UptimeRobot api 时时监控主机、网站、端口等在线状态",
-        "image":"06.png",
+        "image":"06.webp",
         "url":"https://tjys.pages.dev/"
       },
       {
         "title":"动态博客",
         "category":"基于typecho的动态博客",
-        "image":"07.jpg",
+        "image":"07.webp",
         "url":"https://blog.qikaile.tk/"
       },
       {
         "title":"网盘",
         "category":"个人网盘",
-        "image":"08.jpg",
+        "image":"08.webp",
         "url":"https://drive.qikaile.tk/"
       }
     ]
