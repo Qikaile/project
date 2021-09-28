@@ -7,10 +7,10 @@
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"在这里，请您留下您的信息，收到信息后尽快与您取得联系！",
     "qq": "2295716873",
-    "email": "qikaile@outlook.ie",
+    "email": "admin@qikaile.tk",
     "phone": "15205626407",
     "github":"https://github.com/qikaile",
-    "project":"https://www.qikaile.tk",
+    "project":"https://blog.qikaile.tk",
     "address":{
       "street":"安徽工业大学",
       "city":"马鞍山市",
@@ -120,7 +120,7 @@
         "title":"Hexo博客",
         "category":"我的第一个博客",
         "image":"01.webp",
-        "url":"https://www.qikaile.tk"
+        "url":"https://qikaile.tk"
       },
       {
         "title":"云生知识库",
