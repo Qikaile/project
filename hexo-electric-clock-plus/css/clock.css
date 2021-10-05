@@ -1,38 +1,38 @@
 @font-face {
     font-family: 'UnidreamLED';
-    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project/hexo-electric-clock-plus@master/fonts/UnidreamLED.ttf")
+    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project@master/hexo-electric-clock-plus/fonts/UnidreamLED.ttf")
 }
 @font-face {
     font-family: 'Commodore';
-    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project/hexo-electric-clock-plus@master/fonts/Commodore.ttf")
+    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project@master/hexo-electric-clock-plus/fonts/Commodore.ttf")
 }
 @font-face {
     font-family: 'Computerfont';
-    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project/hexo-electric-clock-plus@master/fonts/Computerfont.ttf")
+    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project@master/hexo-electric-clock-plus/fonts/Computerfont.ttf")
 }
 @font-face {
     font-family: 'Digitalsystem';
-    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project/hexo-electric-clock-plus@master/fonts/Digitalsystem.ttf")
+    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project@master/hexo-electric-clock-plus/fonts/Digitalsystem.ttf")
 }
 @font-face {
     font-family: 'Gameover';
-    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project/hexo-electric-clock-plus@master/fonts/Gameover.ttf")
+    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project@master/hexo-electric-clock-plus/fonts/Gameover.ttf")
 }
 @font-face {
     font-family: 'Hacked';
-    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project/hexo-electric-clock-plus@master/fonts/Hacked.ttf")
+    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project@master/hexo-electric-clock-plus/fonts/Hacked.ttf")
 }
 @font-face {
     font-family: 'LCD';
-    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project/hexo-electric-clock-plus@master/fonts/LCD.ttf")
+    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project@master/hexo-electric-clock-plus/fonts/LCD.ttf")
 }
 @font-face {
     font-family: 'Leddisplay';
-    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project/hexo-electric-clock-plus@master/fonts/Leddisplay.ttf")
+    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project@master/hexo-electric-clock-plus/fonts/Leddisplay.ttf")
 }
 @font-face {
     font-family: 'Ringing';
-    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project/hexo-electric-clock-plus@master/fonts/Ringing.ttf")
+    src: url("https://cdn.jsdelivr.net/gh/Qikaile/project@master/hexo-electric-clock-plus/fonts/Ringing.ttf")
 }
 #hexo_electric_clock{
     padding:20px
