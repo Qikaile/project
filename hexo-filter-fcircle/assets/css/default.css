@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'SAOUI';
-  src: url("https://cdn.jsdelivr.net/gh/Qikaile/project@master/hexo-filter-fcircle/assets/fonts/SAOUI.ttf");
+  src: url("../hexo-filter-fcircle/assets/fonts/SAOUI.ttf");
   font-display: swap;
 }
 #fMessageBoard {
